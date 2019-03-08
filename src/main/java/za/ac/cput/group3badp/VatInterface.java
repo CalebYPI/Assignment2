@@ -1,5 +1,6 @@
 package za.ac.cput.group3badp;
 
 public interface VatInterface {
-    int calcVat(int amount);
+    double calcVat(double amount);
+
 }
